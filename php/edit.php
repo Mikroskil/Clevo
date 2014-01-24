@@ -253,7 +253,7 @@ google.setOnLoadCallback(OnLoad);
               <ul class='sb_menu'>
                 <li><a href='home.php'>Home Page</a></li>
                 <li><a href='cacatan.php'>catatan Perjalanan</a></li>
-                <li><a href='site.php'>SSite Map</a></li>
+                <li><a href='site.php'>Bus Site Map</a></li>
                 <li><a href='contact.php'>Contact Us</a></li>
               </ul>";
 			  }
@@ -263,8 +263,8 @@ google.setOnLoadCallback(OnLoad);
 			  <ul class='sb_menu'>
                 <li><a href='home.php'>Home Page</a></li>
 				<li><a href='profil.php'>Profil</a></li>
-                <li><a href='cacatan.php'>catatan Perjalanan</a></li>
-                <li><a href='site.php'>SIte Map</a></li>
+                <li><a href='cacatan.php'>Booking Ticket</a></li>
+                <li><a href='site.php'>Bus Schedule</a></li>
                 <li><a href='contact.php'>Contact Us</a></li>
               </ul>";	
 			  }

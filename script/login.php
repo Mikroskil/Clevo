@@ -9,10 +9,8 @@ $sql = "SELECT
 					FROM
 						users
 					WHERE
-					
-						user_name = '" . mysql_real_escape_string  ($_POST['user']) . "'
+						user_name = '" . mysql_real_escape_string($_POST['user']) . "'
 					AND
-					
 						user_pass = '" . sha1($_POST['password']) . "'";
 $result = mysql_query($sql);
 
